@@ -1,0 +1,8 @@
+data/*
+src/classification/output
+.env
+*.pt
+/checkpoints/
+__pycache__/
+train_data/
+simplified_images/

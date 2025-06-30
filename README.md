@@ -1,2 +1,2 @@
-# Layout-Generator
-A repository that contains all code related to my thesis submission.
+# Thesis-Project
+A repository containing scripts and early-implementations of my thesis work.
